@@ -24,7 +24,6 @@ push-to-github.sh
 
 # Build artifacts
 *.nbm
-buildNumber.properties
 
 # Generated NBM manifest
 src/main/nbm/
