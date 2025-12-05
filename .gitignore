@@ -1,0 +1,30 @@
+# Maven build output
+target/
+
+# IDE files
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+nbproject/private/
+nb-configuration.xml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Claude related files
+.claude/
+CLAUDE.md
+.claude*
+
+# Push script (contains sensitive data)
+push-to-github.sh
+
+# Build artifacts
+*.nbm
+buildNumber.properties
+
+# Generated NBM manifest
+src/main/nbm/

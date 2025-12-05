@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: it/denzosoft/javadecompilermodule/Bundle.properties
+OpenIDE-Module-Layer: it/denzosoft/javadecompilermodule/layer.xml
+OpenIDE-Module-Java-Dependencies: Java > 1.8
+OpenIDE-Module-Specification-Version: 1.0.${buildNumber}
+
